@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran&display=swap');
+body{
+	font-family: 'catamaran',sans-serif;
+}
+:root{
+	--color-negro:#282d33;
+	--menu-hover:#282d33;
+	--fondo-footer:#30363d;
+	--color-footer:#898989;
+}
+header{
+	background-color: #fff;
+}
+footer{
+	background-color: var(--fondo-footer);
+	color: var(--color-footer);
+	padding: 20px 0;
+	text-align: center;
+	font-size: 13px;
+}
+.btn-light{
+	border-radius: 20px;
+	padding: 10px 20px;
+	font-weight: 600;
+}
+#hero h1{
+	font-size: 60px;
+}
+#intro{
+	padding: 40px;
+}
+.subtitulos{
+	font-weight: 600;
+	padding-top: 2%;
+	text-align: center;
+}
+.parrafos{
+	font-weight: 100;
+	padding: 2%;
+	font-size: 14px;
+	text-align: center;	
+	color: var(--color-footer);
+}
+#services{
+	padding: 40px;
+}
+#cta{
+	background-image:url( "file:///C:/Users/maria/Downloads/examen2/examen2/img/home-grid-banner.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	padding: 50px;
+	color: #fff;
+}
+#cta h1{
+	font-weight: 600;
+}
+#clients{
+	padding: 50px;
+}
