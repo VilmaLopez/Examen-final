@@ -45,7 +45,7 @@ footer{
 	padding: 40px;
 }
 #cta{
-	background-image:url( "file:///C:/Users/maria/Downloads/examen2/examen2/img/home-grid-banner.jpg");
+	background-image:url("../img/home-grid-banner.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
 	padding: 50px;
